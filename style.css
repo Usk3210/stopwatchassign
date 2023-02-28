@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(255, 255, 243);
+}
+.maincontainer {
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+    border: 2px solid gray;
+    border-bottom: 0px solid white;
+    margin-top: 200px;
+    height: 300px;
+  border-radius: 10px;
+  }
+  
+  .display-conts {
+    margin-bottom: 20px;
+  }
+  
+  .casts {
+    margin-top: 20px;
+  }
+  
+  .controls button {
+    margin-right: 10px;
+  background-color: blueviolet;
+  color: white;
+  width: 100px;
+  height: 30px;
+  
+  }
+  .controls button:hover{
+    background-color: rgb(135, 164, 222);
+  }
+
+  .time-section{
+    font-size: 20px;
+    margin: 10px 0 10px 0 ;
+  }
